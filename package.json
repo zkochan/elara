@@ -1,0 +1,25 @@
+{
+  "name": "elara",
+  "version": "0.0.0",
+  "description": "A dynamic tag manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkochan/elara.git"
+  },
+  "keywords": [
+    "dtm"
+  ],
+  "author": "Zoltan Kochan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkochan/elara/issues"
+  },
+  "homepage": "https://github.com/zkochan/elara#readme",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  }
+}
