@@ -13,7 +13,7 @@ function Elara(opts) {
   } else {
     host = opts.host;
   }
-  this._origin = location.protocol + '\\' + host;
+  this._origin = location.protocol + '//' + host;
   
   this._seqHTML = [];
 }
